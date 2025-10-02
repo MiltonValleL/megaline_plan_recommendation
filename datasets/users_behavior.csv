@@ -1,4 +1,4 @@
-calls	minutes	messages	mb_used	is_ultra
+calls,minutes,messages,mb_used,is_ultra
 40	311.9	83	19915.42	0
 85	516.75	56	22696.96	0
 77	467.66	86	21060.45	0
